@@ -7,8 +7,6 @@ I'm Adan Aidan Teras. Interested Technology & Love Business
 
 <a style="color:red">test</a>
 
-<br>
-
 [![Gmail Badge](https://img.shields.io/badge/gmail--white?style=social&logo=gmail)](mailto:ella.shella24@gmail.com)
 [![Github Badge](https://img.shields.io/badge/Instagram--white?style=social&logo=instagram)](https://instagram.com/aaidant/)
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin--white?style=social&logo=linkedin)](https://www.linkedin.com/in/adan-aidan-teras/)
