@@ -5,7 +5,8 @@ I'm Adan Aidan Teras. Interested Technology & Love Business
 
 <img alt="coding User Image" src="https://c.tenor.com/IVCnKbtTeRQAAAAM/programming-computer.gif" height="180" style="color:red"/>
 
-<a style="color:red">test</a>
+<br>
+<br>
 
 [![Gmail Badge](https://img.shields.io/badge/gmail--white?style=social&logo=gmail)](mailto:ella.shella24@gmail.com)
 [![Github Badge](https://img.shields.io/badge/Instagram--white?style=social&logo=instagram)](https://instagram.com/aaidant/)
