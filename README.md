@@ -80,7 +80,7 @@ Currently, I’m building **[Bonjer](https://github.com/bonjertech)** — a comp
 
 ## 📌 Featured Projects
 
-### [Bonjer Ecosystem](https://github.com/bonjer)
+### [Bonjer Ecosystem](https://github.com/bonjertech)
 
 A digital ecosystem for B2B, B2C, and B2G sectors, consisting of:
 
@@ -89,10 +89,6 @@ A digital ecosystem for B2B, B2C, and B2G sectors, consisting of:
 - E-commerce & Marketplace
 - API Gateway & Service Mesh
 - Modular, microservices-based, and scalable.
-
-### [Golang HTTP Client Wrapper](https://github.com/aaidant/http-client-go)
-
-Reusable HTTP client with built-in retry, logging, and error handling for microservices.
 
 ## 📈 GitHub Stats
 
