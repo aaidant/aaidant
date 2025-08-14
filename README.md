@@ -38,11 +38,7 @@ Currently, I’m building **[Bonjer](https://github.com/bonjertech)** — a comp
 
 - Languages: TypeScript, JavaScript (ES6+)
 - Frameworks: React.js, Next.js, Vue.js, Nuxt.js
-- State Management: Redux, Zustand, Pinia
-- UI Kit: Ant Design, Vuetify
 - Styling: CSS, SCSS, Tailwind
-- Build Tools: Vite, Webpack
-- Testing: Jest, Cypress
 
 ### ☁️ Cloud & DevOps
 
